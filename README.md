@@ -25,3 +25,19 @@ Du ska bygga en webbapp där du kan beställa kaffe och få den levererad via dr
 Inlämning via Learnpoint och Github med ert gruppnamn som repo-namn.
 
 **Deadline:** 8/4 23:59
+
+## Airbean API
+
+Endpoint: `http://localhost:5000/api/beans`
+
+Metod: `GET`
+
+Beskrivning: För att hämta menyn
+
+---
+
+Endpoint: `http://localhost:5000/api/beans`
+
+Metod: `POST`
+
+Beskrivning: För att posta en beställning
